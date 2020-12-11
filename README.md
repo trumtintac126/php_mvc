@@ -1,6 +1,6 @@
 # PHP Demo
 
-A work management with php mvc
+A work management with php mvc.
 
 ## Environment
 + SERVICE NGINX
@@ -14,6 +14,7 @@ Using composer:
 composer install
 ```
 ### Initialize the database
+
 render Database
 
 run install.php

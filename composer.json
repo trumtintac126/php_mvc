@@ -1,6 +1,6 @@
 {
-  "name": "nguyenmanhtri/work-management-php",
-  "description": "PHP Demo MVC",
+  "name": "khanhhoang/product-management-php",
+  "description": "PHP Demo - Product Management",
   "type": "project",
   "require": {
     "php": "^7.2",
@@ -10,7 +10,9 @@
   },
   "autoload": {
     "psr-4": {
-      "APP\\": "app/"
+      "Libs\\": "libs/",
+      "Modules\\": "modules/",
+      "App\\": "app/"
     }
   },
   "autoload-dev": {
